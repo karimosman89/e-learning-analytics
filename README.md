@@ -20,14 +20,14 @@ Install dependencies:
 - Run the analysis script:
 
 
-    python src/analysis.py
+     python src/analysis.py
 
      
 - Generate visualizations:
 
 
 
-    python src/visualization.py
+     python src/visualization.py
 
 
      
